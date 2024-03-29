@@ -2,7 +2,7 @@
   
 # hi world 🌎✨
 ### 🙇‍♀️ about me
-2023~ : Computer Science and Engineering at CAU <br>
+2023~ : Computer Science and Engineering <br>
 
 ### 👩🏻‍💻 skills 
 ![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
