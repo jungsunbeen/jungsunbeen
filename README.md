@@ -1,6 +1,6 @@
 <div align=center>
   
-# hi world 🌎
+# hi world 🌎✨
 ### 🙇‍♀️ about me
 2023~ : Computer Science and Engineering at CAU <br>
 
