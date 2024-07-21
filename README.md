@@ -5,7 +5,6 @@
 2023~ : Computer Science and Engineering <br>
 
 ### 👩🏻‍💻 skills
-`back-end`<br>
 ![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)<br><br>
