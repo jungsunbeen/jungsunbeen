@@ -24,6 +24,12 @@ now studing ...
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
 
 
+### 🔆 Projects
+| 기간 | 프로젝트명 | 정보 | 비고 |
+| ------------ | ------------- | ------------- | ------------- |
+| 2024.07 ~ 2024.08 | [휴알유](https://github.com) | 휴학생을 위한 휴학 계획/수립 서비스 | 멋쟁이사자처럼 12기 해커톤 |
+| 2024.11 ~ 2024.12 | [눈사람 공작소](https://github.com) | 학교에 디지털 눈사람 만들기 게임 | 멋쟁이사자처럼 12기 중커톤 |
+<br>
 
 ### 🩶 git
 ![](https://github-readme-stats.vercel.app/api?username=jungsunbeen&show_icons=true&theme=dracula)
