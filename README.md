@@ -24,7 +24,7 @@ now studing ...
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
 
 
-### 🔆 Projects
+### 🧤 Projects
 | 기간 | 프로젝트명 | 정보 | 비고 |
 | ------------ | ------------- | ------------- | ------------- |
 | 2024.7.19 ~ 2024.8.6 | [휴알유](https://github.com/Nune-ddine) | 휴학생을 위한 휴학 계획/수립 서비스 | 멋쟁이사자처럼 12기 해커톤 |
