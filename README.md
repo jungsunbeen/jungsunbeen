@@ -1,10 +1,10 @@
 <div align=center>
   
 # hi world 🌎✨
-### 🙇‍♀️ about me
-2023~ : Computer Science and Engineering <br>
+### 🙇‍♀️ About me
+2023~ : BS in Computer Science and Engineering <br>
 
-### 👩🏻‍💻 skills
+### 👩🏻‍💻 Skills
 ![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white)
@@ -31,7 +31,7 @@ now studing ...
 | 2024.11.4 ~ 2024.11.21 | [눈사람 공작소](https://github.com/Youth-is-the-best) |중앙대 속 디지털 눈사람 만들기 게임 | 프론트엔드 개발 |
 <br>
 
-### 🩶 git
+### 🩶 Git
 ![](https://github-readme-stats.vercel.app/api?username=jungsunbeen&show_icons=true&theme=dracula)
 
 </div>
