@@ -27,8 +27,8 @@ now studing ...
 ### 🧤 Projects
 | period | project | detail | role | tech stack |
 | ------------ | ------------- | ------------- | ------------- | ------------- |
-| 2024.07.19 ~ 2024.08.06 | 👩🏼‍🎓📋 [휴알유](https://github.com/Youth-is-the-best) | 휴학생을 위한 휴학 계획/수립 서비스 | frontend | React, javascript |
-| 2024.11.04 ~ 2024.11.21 | ☃️🏭 [눈사람 공작소](https://github.com/Nune-ddine) |중앙대 속 디지털 눈사람 만들기 게임 | frontend | React, typescript |
+| 2024.07.19 ~ 2024.08.06 | 👩🏼‍🎓📋 [Hue R U](https://github.com/Youth-is-the-best) | Planning/arrangements for students on leave of absence | frontend | React, javascript |
+| 2024.11.04 ~ 2024.11.21 | ☃️🏭 [Snowman Factory](https://github.com/Nune-ddine) | Digital snowman building game at CAU | frontend | React, typescript |
 | 2025.03.15 ~ 2025.04.XX | 🎉🛜 | | frontend |React, typescript|
 | 2025.04.XX ~ 2025.06.XX | 🧠❤️‍🩹 | | ai ||
 <br>
