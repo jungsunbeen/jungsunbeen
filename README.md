@@ -27,9 +27,9 @@ now studing ...
 ### 🧤 Projects
 | period | project | detail | role | tech stack |
 | ------------ | ------------- | ------------- | ------------- | ------------- |
-| 2024.07.19 ~ 2024.08.06 | 👩🏼‍🎓📋 [Hue R U](https://github.com/Youth-is-the-best) | Planning/arrangements for students on leave of absence | frontend | React, javascript |
-| 2024.11.04 ~ 2024.11.21 | ☃️🏭 [Snowman Factory](https://github.com/Nune-ddine) | Digital snowman building game at CAU | frontend | React, typescript |
-| 2025.03.15 ~ 2025.04.XX | 🎉🛜 | | frontend |React, typescript|
+| 2024.07.19 ~ 2024.08.06 | 👩🏼‍🎓📋 [Hue R U](https://github.com/Youth-is-the-best) | Planning/arrangements for students on leave of absence | frontend | React.js |
+| 2024.11.04 ~ 2024.11.21 | ☃️🏭 [Snowman Factory](https://github.com/Nune-ddine) | Digital snowman building game at CAU | frontend | React.ts |
+| 2025.03.15 ~ 2025.04.XX | 🎉🛜 | | frontend |React.ts|
 | 2025.04.XX ~ 2025.06.XX | 🧠❤️‍🩹 | | ai ||
 <br>
 
