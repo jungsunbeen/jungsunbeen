@@ -27,10 +27,10 @@ now studing ...
 ### 🧤 Projects
 | period | project | detail | role | tech stack |
 | ------------ | ------------- | ------------- | ------------- | ------------- |
-| July 2024 ~ August 2024 | 👩🏼‍🎓📋 [Hue R U](https://github.com/Youth-is-the-best) | Planning/arrangements for students on leave of absence | frontend | React.js |
+| from July to August 2024 | 👩🏼‍🎓📋 [Hue R U](https://github.com/Youth-is-the-best) | Planning/arrangements for students on leave of absence | frontend | React.js |
 | November 2024 | ☃️🏭 [Snowman Factory](https://github.com/Nune-ddine) | Digital snowman building game at CAU | frontend | React.ts |
-| March 2025 ~ May 2025 | 🎉🛜 | | frontend |React.ts|
-| April 2025 ~ June 2025 | 🧠❤️‍🩹 | | ai ||
+| from March to May 2025 | 🎉🛜 | | frontend |React.ts|
+| from April to June 2025 | 🧠❤️‍🩹 | | ai ||
 <br>
 
 ### 🩶 Git
