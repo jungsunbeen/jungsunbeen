@@ -20,7 +20,7 @@
 <img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=Typescript&logoColor=white"/>
 
 
-now studing ...
+Now studing ...
 
 
 ### 🧤 Projects
