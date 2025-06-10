@@ -2,7 +2,7 @@
   
 # hi world 🌎✨
 ### 🙇‍♀️ About me
-2023~ : BS in Computer Science and Engineering 📍🇰🇷 <br>
+📍🇰🇷 2023~ : BS in Computer Science and Engineering<br>
 
 ### 👩🏻‍💻 Skills
 ![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
