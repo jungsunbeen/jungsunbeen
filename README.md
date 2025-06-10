@@ -1,6 +1,6 @@
 <div align=center>
   
-# hi world 🌎✨
+# Hi world 🌎✨
 ### 🙇‍♀️ About me
 📍🇰🇷 2023~ : BS in Computer Science and Engineering<br>
 
