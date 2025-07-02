@@ -29,7 +29,16 @@ Now studing ...
 | from July to August 2024 | [Hue R U](https://github.com/Youth-is-the-best)👩🏼‍🎓📋  | Planning/arrangements for students on leave of absence | frontend | React.js |
 | November 2024 | [Snowman Factory](https://github.com/Nune-ddine)☃️🏭  | Digital snowman building game at CAU | frontend | React.ts |
 | from March to May 2025 | [Festival Website](https://github.com/LUCAUS2025/LUCAUS-client)🎉🛜 | An official website where you can check performances and various announcements during the university festival period. | frontend |React.ts|
-| from April to June 2025 | [SoulMate](https://github.com/OpenKetchupSource)🧠❤️‍🩹 | | ai, frontend | React.ts |
+| from April to June 2025 | [SoulMate](https://github.com/OpenKetchupSource)🧠❤️‍🩹 | Emotion-driven journaling service that offers deep understanding and empathy through AI-powered conversations and heartfelt feedback.
+
+
+
+
+
+
+
+
+ | ai, frontend | React.ts |
 <br>
 
 ### 🩶 Git
