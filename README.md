@@ -2,7 +2,8 @@
   
 # Hi world 🌎✨
 ### 🙇‍♀️ About me
-📍🇰🇷 2023~ : BS in Computer Science and Engineering<br>
+📍🇰🇷 2023 - Present : BS. Computer Science and Engineering @ Chung-Ang University (CAU) <br>
+📍🇨🇿 2025 : Exchange Program in Information Technology @ Czech Technical University in Prague (CTU) <br>
 
 ### 👩🏻‍💻 Skills
 ![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
@@ -20,9 +21,6 @@
 <img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=Typescript&logoColor=white"/>
 
 
-Now studing ... 
-
-
 ### 🧤 Projects
 | period | project | detail | role | tech stack |
 | ------------ | ------------- | ------------- | ------------- | ------------- |
@@ -31,9 +29,6 @@ Now studing ...
 | from March to May 2025 | [Festival Website](https://github.com/LUCAUS2025/LUCAUS-client)🎉🛜 | An official website where you can check performances and various announcements during the university festival period. | frontend |React.ts|
 | from April to June 2025 | [SoulMate](https://github.com/OpenKetchupSource)🧠❤️‍🩹 | Emotion-driven journaling service that offers deep understanding and empathy through AI-powered conversations and heartfelt feedback.| ai, frontend | React.ts |
 <br>
-
-### 🩶 Git
-![](https://github-readme-stats.vercel.app/api?username=jungsunbeen&show_icons=true&theme=dracula)
 
 </div>
 
