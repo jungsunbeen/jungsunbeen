@@ -1,6 +1,6 @@
 <div align=center>
   
-# Hi world 🌎✨
+# Hello, world 🌎✨
 ### 🙇‍♀️ About me
 📍🇰🇷 2023 - Present : BS. Computer Science and Engineering @ Chung-Ang University (CAU) <br>
 📍🇨🇿 2025 : Exchange Program in Information Technology @ Czech Technical University in Prague (CTU) <br>
