@@ -2,13 +2,13 @@
   
 # Hello, world 🌎✨
 ### 🙇‍♀️ About me
-📍🇰🇷 2023 - Present : BS. Computer Science and Engineering @ Chung-Ang University (CAU) <br>
+📍🇰🇷 2023 - Present : BS. Computer Science and Engineering @ Chung-Ang University ([CAU](https://neweng.cau.ac.kr/index.do)) <br>
 📍🇰🇷 2024 - 2025 : Startup Development Club, Likelion [@likelion_cau](https://www.instagram.com/likelion_cau/) <br>
 - 12th Cohort: Frontend Member
 - 13th Cohort: Frontend Executive
 - 13th Cohort: Creative Content Team – Instagram Content & Account Management
   
-📍🇨🇿 2025 : Exchange Program in Information Technology @ Czech Technical University in Prague (CTU) <br>
+📍🇨🇿 2025 : Exchange Program in Information Technology @ Czech Technical University in Prague ([CTU](https://www.cvut.cz/en)) <br>
 
 ### 👩🏻‍💻 Skills
 ![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
