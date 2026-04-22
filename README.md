@@ -32,7 +32,11 @@
 | from March to May 2025 | [Festival Website](https://github.com/LUCAUS2025/LUCAUS-client)🎉🛜 | An official website where you can check performances and various announcements during the university festival period. | frontend |React.ts|https://lucaus.vercel.app/ |
 | from April to June 2025 | [SoulMate](https://github.com/OpenKetchupSource)🧠❤️‍🩹 | Emotion-driven journaling service that offers deep understanding and empathy through AI-powered conversations and heartfelt feedback.| ai, frontend | React.ts |https://withsoulmate.netlify.app/ |
 <br>
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jungsunbeen/jungsunbeen/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jungsunbeen/jungsunbeen/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jungsunbeen/jungsunbeen/output/github-contribution-grid-snake.svg">
+</picture>
 </div>
 
 <!--https://velog.io/@hippohami/Git-README-%EA%BE%B8%EB%AF%B8%EA%B8%B0-%EB%B1%83%EC%A7%80-%EB%AA%A8%EC%9D%8C-->
